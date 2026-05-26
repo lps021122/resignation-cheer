@@ -1,0 +1,6 @@
+node_modules/
+.env
+likes.json
+.claude/
+.superpowers/
+docs/
